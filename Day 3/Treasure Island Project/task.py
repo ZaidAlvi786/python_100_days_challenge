@@ -40,7 +40,8 @@ if left_right =="left":
         elif choice3 =="blue":
             print("You enter a room of beasts. Game Over.")
         else:
-            print("You choose a door that doesn't exist. Game Over")
+            print("You choose a door that doesn't exist. Game Over"
+                  "")
   else:
        print("You got attacked by a trout. Game Over")
 
